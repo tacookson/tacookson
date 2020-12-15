@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 style="font-weight:normal" align="center">
+  &nbsp;Hi, I'm Alex!&nbsp;
+</h1>
+
+<div align="center">
+  
+&nbsp;&nbsp;&nbsp;:black_nib: [Blog][Blog]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:bird: [Twitter][Twitter]
+
+</div>
 
 <!--
-**tacookson/tacookson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Quick Link
 -->
+
+[Blog]:https://alexcookson.com
+[Twitter]:https://twitter.com/alexcookson
+
+
+**I am a data scientist dedicated to exploring interesting datasets and helping organizations make the most of their data. I have almost a decade of experience working with data: cleaning it, visualizing it, and getting answers from it. And I have worked all over the world, from the Serengeti :tanzania: to Berlin :de: to Toronto :canada:, my hometown.**
