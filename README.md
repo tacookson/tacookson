@@ -17,3 +17,7 @@ Quick Link
 
 
 **I am a data scientist dedicated to exploring interesting datasets and helping organizations make the most of their data. I have almost a decade of experience working with data: cleaning it, visualizing it, and getting answers from it. And I have worked all over the world, from the Serengeti to Berlin to Toronto (my hometown!)**
+
+<br>
+
+If you're looking for more information on my **rstudio::global(2020)** lightning-talk, *The Power of Great Datasets*, you can find it **[here]**(https://github.com/tacookson/power-of-great-datasets)
