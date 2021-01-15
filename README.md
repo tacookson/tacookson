@@ -20,4 +20,4 @@ Quick Link
 
 <br>
 
-If you're looking for more information on my **rstudio::global(2021)** lightning-talk, *The Power of Great Datasets*, you can find it [**here**](https://github.com/tacookson/power-of-great-datasets)
+If you're looking for more information on my **rstudio::global(2021)** lightning-talk, [*The Power of Great Datasets*](https://global.rstudio.com/student/page/40596), you can find it [**here**](https://github.com/tacookson/power-of-great-datasets)
