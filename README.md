@@ -4,7 +4,7 @@
 
 <div align="center">
   
-&nbsp;&nbsp;&nbsp;:black_nib: [Blog][Blog]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:bird: [Twitter][Twitter]
+&nbsp;&nbsp;&nbsp;✏️ [Blog][Blog]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🐦 [Twitter][Twitter]
 
 </div>
 
@@ -16,7 +16,7 @@ Quick Link
 [Twitter]:https://twitter.com/alexcookson
 
 
-**I am a data scientist dedicated to exploring interesting datasets and helping organizations make the most of their data. I have almost a decade of experience working with data: cleaning it, visualizing it, and getting answers from it. And I have worked all over the world, from the Serengeti to Berlin to Toronto (my hometown!)**
+**I am a data scientist dedicated to exploring interesting datasets and helping organizations make the most of their data. I have over a decade of experience working with data: cleaning it, visualizing it, and getting answers from it. And I have worked all over the world, from the Serengeti to Berlin to Toronto (my hometown!)**
 
 <br>
 
