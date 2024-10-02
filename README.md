@@ -4,7 +4,7 @@
 
 <div align="center">
   
-&nbsp;&nbsp;&nbsp;✏️ [Blog][Blog]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🐦 [Twitter][Twitter]
+&nbsp;&nbsp;&nbsp;✏️ [Blog][Blog]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;💼 [LinkedIn][LinkedIn]
 
 </div>
 
@@ -14,9 +14,10 @@ Quick Link
 
 [Blog]:https://alexcookson.com
 [Twitter]:https://twitter.com/alexcookson
+[LinkedIn]:https://www.linkedin.com/in/alexcookson/
 
 
-**I am a data scientist dedicated to exploring interesting datasets and helping organizations make the most of their data. I have over a decade of experience working with data: cleaning it, visualizing it, and getting answers from it. And I have worked all over the world, from the Serengeti to Berlin to Toronto (my hometown!)**
+**I am a data leader dedicated to exploring interesting datasets and helping organizations make the most of their data. I have over a decade of experience working with data: cleaning it, visualizing it, and getting answers from it. And I have worked all over the world, from the Serengeti to Berlin to Toronto (my hometown!)**
 
 <br>
 
